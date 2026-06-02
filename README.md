@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="umar_banner.png" alt="Umar" width="180" style="border-radius: 50%;">
+</p>
 <h1 align="center">Hi 👋, I'm Umar Azam</h1>
 <h3 align="center">Translating business needs into secure, high-performance web application.</h3>
 
